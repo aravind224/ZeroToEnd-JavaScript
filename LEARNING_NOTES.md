@@ -29,3 +29,9 @@ Loops in JS:
   for (let i = 0; i < arr.length; i++) { }
 
 ( 4th feb) Today, Tried to replace all this to write the proper code, still didnt get the proper output. Need to check it tomorrow.
+
+
+5th feb- Understood the basics- How to assign a variable, for loops, how to get the length of an array which was needed for the zertoend code, and tried to work on with the code, And yeah successfully done with the code, But still need to work with multiple codes, so that will get some guts to start coding myself. 
+Also referred the website FreeCodeCamp for understanding the basivcs of JS- [text](https://www.freecodecamp.org/learn/javascript-v9/lecture-introduction-to-javascript/what-is-javascript)
+
+Maybe tomorrow, ill start an another code freshly trying on my own. 
