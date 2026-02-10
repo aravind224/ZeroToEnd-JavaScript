@@ -35,13 +35,3 @@ Loops in JS:
 Also referred the website FreeCodeCamp for understanding the basivcs of JS- [text](https://www.freecodecamp.org/learn/javascript-v9/lecture-introduction-to-javascript/what-is-javascript)
 
 Maybe tomorrow, ill start an another code freshly trying on my own. 
-
-
-10th of Feb:
-
-Today I faced an issue while running `npm init -y` in PowerShell.
-It said scripts are disabled and npm.ps1 cannot be loaded.
-
-At first I thought Node or npm was broken, but actually Windows PowerShell blocks scripts by default.
-
-Fixed it by giving some commands in the powershell. After this, `npm init -y` worked and `package.json` got created.
