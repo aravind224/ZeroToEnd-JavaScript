@@ -4,7 +4,8 @@
   "description": "",
   "main": "ZeroToEnd.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "Aravind": "node ZeroToEnd.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
   },
   "homepage": "https://github.com/aravind224/ZeroToEnd-JavaScript#readme",
   "devDependencies": {
+    "@types/jest": "^30.0.0",
     "jest": "^30.2.0"
   }
 }
